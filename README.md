@@ -6,7 +6,7 @@ While Web design isn't my first love by any means, I still find it fascinating, 
 
 ## But what is the Internet: Some facts I found interesting!
 
-+ The internet and the World Wide web are *not* The same at all, I used to think they were.
++ The internet and the World Wide web are *not* the same at all, I used to think they were.
 
 * The internet interface we know today, is **NOT** what it was in the beginning!
 
