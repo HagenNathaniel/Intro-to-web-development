@@ -20,4 +20,4 @@ Course Textbook:
   * [Intro to Web Dev. Website]( https://media-ed-online.github.io/intro-web-dev/)
 
   * Course Banner:
-![alt text](http://bit.ly/2DIVG46 "Web Dev. Course Logo" 
+[![Alt text](http://bit.ly/2DIVG46)](http://bit.ly/2DIVG46)
