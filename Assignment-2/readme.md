@@ -21,3 +21,10 @@ Not this week.
 Any issues you posted to the repo? any issues you helped classmates with:
 
 No, and no to the second part.
+
+URL to Responses.txt:
+
+https://github.com/HagenNathaniel/web-dev-hw/blob/master/Assignment-2/Responses.txt
+
+Pic of Week's work:
+https://github.com/HagenNathaniel/web-dev-hw/blob/master/Assignment-2/images/Assignment_2.PNG
