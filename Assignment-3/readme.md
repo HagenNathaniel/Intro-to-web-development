@@ -33,4 +33,4 @@ There was no topics I would like to spend more time with, besides maybe coloring
 <br>
 </br>
 
- <center><img src="/ssassignment3.png" alt="Screenshot of workspace"></center> 
+ <center><img src="ssassignment3.png" alt="Screenshot of workspace"></center> 
