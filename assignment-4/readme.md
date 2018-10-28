@@ -25,3 +25,6 @@ to resolve it themselves.
 
 Would I like to explore anything further? Not this week, perhaps another time,
 this week was simple enough to understand.
+
+
+<center><img src="ss1.jpg" alt="Screenshot of workspace"></center> 
