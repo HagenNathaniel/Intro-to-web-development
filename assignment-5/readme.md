@@ -15,4 +15,4 @@ My work week consisted of: Doing research for my second image, reliving old memo
 I am not aware of any student issues for this week, so I was not able to help or assist anyone in troubleshooting their work.
 
 
-<img src="PS1.jpg">
+<img src="SS.7.png">
