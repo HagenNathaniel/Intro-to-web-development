@@ -1,0 +1,48 @@
+/* Select the main container 'div' element */
+.main-container {
+    /* Draw a brown border 3px thick. */
+    border-style: dashed;
+    border-width: 3px;
+    border-color: brown;
+    /*Add space between the boarder and its inside elements. */
+    padding: 12px;
+    /* Color the background dark grey. */
+    background: 'blue';
+}
+
+/* Select all h1 elements. */
+h1 {
+    /* Draw an black border 5px thick around ONLY the h1 element. */
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+    /* Set a unique background color. */
+    background: 'magenta';
+}
+
+/* Select only 'styled' paragraph elements. */
+p.styled {
+    border-style: solid;
+    border-width: 4px;
+    border-color: green;
+    background: 'red';
+}
+
+/* Select the strong AND emphasized elements. */
+strong, em {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkred;
+}
+
+/* Select ONLY the emphasized elements. */
+em {
+    color: tomato;
+}
+
+hr {
+  margin: 30px 0;
+}
+
+
+/* css settings for Assignment 5 */
