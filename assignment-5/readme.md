@@ -13,3 +13,6 @@ Besides my css not working, I didn't encounter any issues in this cycle, most of
 My work week consisted of: Doing research for my second image, reliving old memories of that decade, and then coding the webpage.
 
 I am not aware of any student issues for this week, so I was not able to help or assist anyone in troubleshooting their work.
+
+
+<img src="PS1.jpg">
