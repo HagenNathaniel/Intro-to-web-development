@@ -21,4 +21,4 @@ much should be right! links are all there, files, etc.
 4. I would love to learn more about CSS, so that I can REALLY get crazy with it in the future..
 
 
- <img src="ss7.png" alt="screenshot of workspace">
+ <img src="ss7.PNG" alt="screenshot of workspace">
