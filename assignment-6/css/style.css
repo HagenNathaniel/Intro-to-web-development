@@ -1,0 +1,40 @@
+/* CSS style sheet */
+
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i|Dancing+Script:700');
+
+
+body {
+
+background-color: lightblue;
+font-family: 'Arvo', Serif;
+}
+
+section{
+width: 1280;
+background-color: Seagreen;
+border-radius: 25px;
+padding: 20px;
+padding-bottom: 35px;
+margin: auto;
+margin-bottom: -170px;
+}
+
+h1 {
+
+color: blue;
+text-align: left;
+font-family:  Dancing+Script;
+
+}
+
+h2{
+
+  color: blue;
+  text-align: left;
+  font-family: 'Arvo';
+}
+
+p {
+   color: rgb(0,0,0);
+   font-size: 14px;
+}
