@@ -15,3 +15,7 @@ Issues I encountered were mostly css related, getting them to work was fun. but 
 Any STUDENT issues you helped on? No.
 
 Anything you would like to learn more about: Background placement, automatic website sizing based on device viewed on, etc.
+
+Screenshot of workspace during project:
+
+<center><img src="ss2.7.JPG" alt="Screenshot of workspace"></center> 
