@@ -18,4 +18,4 @@ Anything you would like to learn more about: Background placement, automatic web
 
 Screenshot of workspace during project:
 
-<center><img src="ss2.7.JPG" alt="Screenshot of workspace"></center> 
+<center><img src="ss2.7.png" alt="Screenshot of workspace"></center> 
